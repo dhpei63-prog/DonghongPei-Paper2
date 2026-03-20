@@ -10,7 +10,7 @@ Heterosis in plants refers to the superiority of F1 hybrid over its inbred paren
 
 ## Full Paper
 - 📄 [Download PDF](./DonghongPei-Paper2.pdf)
-- 🔗 OSF: httpshttps://osf.io/preprints/osf/znmwu_v4
+- 🔗 OSF: https://osf.io/preprints/osf/znmwu_v4
 
 ## Topics (Tags)
 genetics, plant breeding, hybrid, maize, heterosis, dominance
